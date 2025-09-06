@@ -303,3 +303,11 @@ improvements to the code. It can also fix issues and implement new features!
 
 We’d love to hear your thoughts on this project.
 You can find us on [Slack](https://dockercommunity.slack.com/archives/C09DASHHRU4)
+
+## ⭐ Star History
+
+If this repo helped you in your Docker journey, please star it! ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=docker/cagent&type=Date)](https://star-history.com/#docker/cagent&Date)
+
+
